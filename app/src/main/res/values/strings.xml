@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="button_register_tittle">Register</string>
+</resources>
